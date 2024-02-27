@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/regimif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrystian21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystian21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=chrystian21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true'/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystian21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <hr>
