@@ -2,7 +2,7 @@
 
 <hr>
 
-- 📚 Estudando JavaScript e Java
+- 📚 Estudando JavaScript e tailwind
 
 <div align="center">
   <a href="https://github.com/chrystian21">
